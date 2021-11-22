@@ -1,3 +1,3 @@
-# Personal website for my Profile -Keren Kitamuliko 
+#Personal website for my Profile - Keren Kitamuliko 
 
-This Personal website is made for my profile using HTML, CSS and JavaScript.
+This is a Personal website made using the following languages: HTML, CSS and JavaScript.
